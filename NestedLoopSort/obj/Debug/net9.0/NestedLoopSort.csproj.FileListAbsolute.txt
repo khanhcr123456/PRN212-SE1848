@@ -1,0 +1,14 @@
+D:\Slution\PRN212-SE1848\NestedLoopSort\bin\Debug\net9.0\NestedLoopSort.exe
+D:\Slution\PRN212-SE1848\NestedLoopSort\bin\Debug\net9.0\NestedLoopSort.deps.json
+D:\Slution\PRN212-SE1848\NestedLoopSort\bin\Debug\net9.0\NestedLoopSort.runtimeconfig.json
+D:\Slution\PRN212-SE1848\NestedLoopSort\bin\Debug\net9.0\NestedLoopSort.dll
+D:\Slution\PRN212-SE1848\NestedLoopSort\bin\Debug\net9.0\NestedLoopSort.pdb
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.AssemblyInfoInputs.cache
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.AssemblyInfo.cs
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.csproj.CoreCompileInputs.cache
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.dll
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\refint\NestedLoopSort.dll
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.pdb
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\NestedLoopSort.genruntimeconfig.cache
+D:\Slution\PRN212-SE1848\NestedLoopSort\obj\Debug\net9.0\ref\NestedLoopSort.dll
