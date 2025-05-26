@@ -1,0 +1,14 @@
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfo.cs
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Slution\PRN212-SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.exe
+D:\Slution\PRN212-SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.deps.json
+D:\Slution\PRN212-SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.runtimeconfig.json
+D:\Slution\PRN212-SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.dll
+D:\Slution\PRN212-SE1848\QuadraticEquation\bin\Debug\net9.0\QuadraticEquation.pdb
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.dll
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\refint\QuadraticEquation.dll
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.pdb
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.genruntimeconfig.cache
+D:\Slution\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\ref\QuadraticEquation.dll

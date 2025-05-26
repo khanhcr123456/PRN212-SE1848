@@ -1,0 +1,14 @@
+D:\Slution\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.exe
+D:\Slution\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.deps.json
+D:\Slution\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.runtimeconfig.json
+D:\Slution\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.dll
+D:\Slution\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.pdb
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.AssemblyInfoInputs.cache
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.AssemblyInfo.cs
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.csproj.CoreCompileInputs.cache
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.dll
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\refint\ParamSample.dll
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.pdb
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.genruntimeconfig.cache
+D:\Slution\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ref\ParamSample.dll
