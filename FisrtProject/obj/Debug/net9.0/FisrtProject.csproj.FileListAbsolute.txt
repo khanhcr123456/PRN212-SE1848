@@ -1,0 +1,14 @@
+D:\Slution\PRN212-SE1848\FisrtProject\bin\Debug\net9.0\FisrtProject.exe
+D:\Slution\PRN212-SE1848\FisrtProject\bin\Debug\net9.0\FisrtProject.deps.json
+D:\Slution\PRN212-SE1848\FisrtProject\bin\Debug\net9.0\FisrtProject.runtimeconfig.json
+D:\Slution\PRN212-SE1848\FisrtProject\bin\Debug\net9.0\FisrtProject.dll
+D:\Slution\PRN212-SE1848\FisrtProject\bin\Debug\net9.0\FisrtProject.pdb
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.AssemblyInfoInputs.cache
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.AssemblyInfo.cs
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.csproj.CoreCompileInputs.cache
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.dll
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\refint\FisrtProject.dll
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.pdb
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\FisrtProject.genruntimeconfig.cache
+D:\Slution\PRN212-SE1848\FisrtProject\obj\Debug\net9.0\ref\FisrtProject.dll
