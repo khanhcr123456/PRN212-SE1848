@@ -1,0 +1,14 @@
+D:\Slution\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.exe
+D:\Slution\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.deps.json
+D:\Slution\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.runtimeconfig.json
+D:\Slution\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.dll
+D:\Slution\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.pdb
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.AssemblyInfoInputs.cache
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.AssemblyInfo.cs
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.csproj.CoreCompileInputs.cache
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.dll
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\refint\SimpleMath.dll
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.pdb
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.genruntimeconfig.cache
+D:\Slution\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\ref\SimpleMath.dll
