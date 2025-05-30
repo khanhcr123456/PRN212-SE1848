@@ -1,0 +1,14 @@
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\bin\Debug\net9.0\OPP3_ExtensionMethod.exe
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\bin\Debug\net9.0\OPP3_ExtensionMethod.deps.json
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\bin\Debug\net9.0\OPP3_ExtensionMethod.runtimeconfig.json
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\bin\Debug\net9.0\OPP3_ExtensionMethod.dll
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\bin\Debug\net9.0\OPP3_ExtensionMethod.pdb
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.AssemblyInfoInputs.cache
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.AssemblyInfo.cs
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.dll
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\refint\OPP3_ExtensionMethod.dll
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.pdb
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\OPP3_ExtensionMethod.genruntimeconfig.cache
+D:\Slution\PRN212-SE1848\OPP3_ExtensionMethod\obj\Debug\net9.0\ref\OPP3_ExtensionMethod.dll

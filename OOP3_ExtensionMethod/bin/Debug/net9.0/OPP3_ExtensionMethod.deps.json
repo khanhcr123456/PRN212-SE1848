@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OPP3_ExtensionMethod/1.0.0": {
+        "runtime": {
+          "OPP3_ExtensionMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPP3_ExtensionMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
